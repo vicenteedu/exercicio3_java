@@ -1,4 +1,4 @@
-# Exercicio 3 (modo de preparo de um miojo perfeito!!)
+# Exercicio 3 (um simulador de preparo de miojo)
 
 Desenvolvido utilizado JDK 1.8 e NetBeans 21
 
